@@ -1,0 +1,1 @@
+import{t as e}from"./virtual_mf-exposes___mfe_internal__MindtapUI__remoteEntry_js-DnnXQRkG.js";export{e as default};
