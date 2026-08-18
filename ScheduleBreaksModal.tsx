@@ -227,6 +227,7 @@ export default function ScheduleBreaksModal({
       <ScheduleDialog
         aria-labelledby="schedule-breaks-title"
         aria-modal="true"
+        onClick={(event) => event.stopPropagation()}
         role="dialog"
       >
         <ScheduleContent>
