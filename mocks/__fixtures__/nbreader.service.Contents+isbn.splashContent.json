@@ -1,0 +1,57 @@
+{
+    "_id": {
+        "$oid": "6a184861b633efc5e3d2a15b"
+    },
+    "contentKey": "6a184839ceeb1b2dbc4f30d5",
+    "bookId": "9798214000800",
+    "sections": {
+        "copyright": {
+            "sectionId": "copyright",
+            "sectionLabel": null,
+            "sectionTitle": "Copyright",
+            "sectionMarkupTitle": "Copyright",
+            "innerSectionLabel": null,
+            "innerSectionTitle": null,
+            "innerSectionMarkupTitle": null,
+            "innerSectionType": null,
+            "innerSectionId": null,
+            "sectionType": "AHEAD",
+            "sectionHidden": false,
+            "idSequence": 246,
+            "nonBook": false,
+            "content": "<div class=\"container page\"><div id=\"header\"><div id=\"breadcrumb\"><a title=\"Chapter Contents\" id=\"chapterTitle\" href=\"javascript://\" data-link-type=\"outline\">About CompTIA Linux+ and LPIC-1: Guide to Linux Certification</a></div><h1>Copyright</h1></div><div class=\"content\"><h3>CompTIA Linux+ and LPIC-1: Guide to Linux Certification</h3><div class=\"copyright\">COPYRIGHT © 2024 Cengage Learning, Inc.</div><div class=\"allrightsReserved\">ALL RIGHTS RESERVED. No part of this work covered by the copyright herein may be reproduced, transmitted, stored, or used in any form or by any means except as permitted by law without the prior written permission of the publisher.</div><div class=\"isbn\"><p>Print Edition ISBN: 9798214000800<br/>MindTap ISBN: 9798214027715</p></div><div class=\"publisherName\">Cengage Learning, Inc.</div></div></div>"
+        },
+        "cover-image": {
+            "sectionId": "cover-image",
+            "sectionLabel": null,
+            "sectionTitle": "Cover Image",
+            "sectionMarkupTitle": "Cover Image",
+            "innerSectionLabel": null,
+            "innerSectionTitle": null,
+            "innerSectionMarkupTitle": null,
+            "innerSectionType": null,
+            "innerSectionId": null,
+            "sectionType": "AHEAD",
+            "sectionHidden": false,
+            "idSequence": 0,
+            "nonBook": false,
+            "content": "<div class=\"container page\"><div id=\"header\"><div id=\"breadcrumb\"><a title=\"Chapter Contents\" id=\"chapterTitle\" href=\"javascript://\" data-link-type=\"outline\">About CompTIA Linux+ and LPIC-1: Guide to Linux Certification</a></div><h1>Cover Image</h1></div><div class=\"content\"><div class=\"pageSection\"><div class=\"coverImageWrapper\"><div class=\"mediaCredit\">Cengage</div></div></div></div></div>"
+        },
+        "about-the-author": {
+            "sectionId": "about-the-author",
+            "sectionLabel": null,
+            "sectionTitle": "About the Authors",
+            "sectionMarkupTitle": "About the Authors",
+            "innerSectionLabel": null,
+            "innerSectionTitle": null,
+            "innerSectionMarkupTitle": null,
+            "innerSectionType": null,
+            "innerSectionId": null,
+            "sectionType": "AHEAD",
+            "sectionHidden": false,
+            "idSequence": 230,
+            "nonBook": false,
+            "content": "<div class=\"container page\"><div id=\"header\"><div id=\"breadcrumb\"><a title=\"Chapter Contents\" id=\"chapterTitle\" href=\"javascript://\" data-link-type=\"outline\">About CompTIA Linux+ and LPIC-1: Guide to Linux Certification</a></div><h1>About the Authors</h1></div><div class=\"content\"><div class=\"pageSection\"><p><span class=\"personName\">JASON ECKERT</span> is the author of CompTIA Linux+ and LPIC-1: Guide to Linux Certification, Sixth Edition.</p><p>triOS College is featured with this MindTap course.</p></div></div></div>"
+        }
+    }
+}

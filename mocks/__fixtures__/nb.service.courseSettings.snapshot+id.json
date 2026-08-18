@@ -1,0 +1,9 @@
+{
+  "dashboard": {
+    "enabled": true
+  },
+  "timePickerDefaults": {
+    "dueTimeDefault": "09:59 PM",
+    "availableTimeDefault": "12:00 AM"
+  }
+}

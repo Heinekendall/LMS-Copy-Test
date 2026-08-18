@@ -1,0 +1,45 @@
+[
+  {
+    "userId": 1234601315,
+    "firstName": "TestInst",
+    "lastName": "Kyrylo",
+    "userOrgProfileId": 95464533,
+    "role": "INSTRUCTOR",
+    "orgId": 156321,
+    "capabilities": [
+      {
+        "id": 1,
+        "name": "MANAGE_LPN",
+        "displayOrder": 1,
+        "isAllowed": true,
+        "children": [
+          {
+            "id": 2,
+            "name": "MANAGE_GENERAL_ACTIVITIES",
+            "displayOrder": 1,
+            "isAllowed": true
+          },
+          {
+            "id": 3,
+            "name": "MANAGE_HOMEWORK_ACTIVITIES",
+            "displayOrder": 2,
+            "isAllowed": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "MANAGE_COURSE_DATES",
+        "displayOrder": 2,
+        "isAllowed": true
+      },
+      {
+        "id": 6,
+        "name": "MANAGE_GRADEBOOK",
+        "displayOrder": 4,
+        "isAllowed": true
+      },
+      { "id": 7, "name": "MANAGE_USERS", "displayOrder": 5, "isAllowed": true }
+    ]
+  }
+]

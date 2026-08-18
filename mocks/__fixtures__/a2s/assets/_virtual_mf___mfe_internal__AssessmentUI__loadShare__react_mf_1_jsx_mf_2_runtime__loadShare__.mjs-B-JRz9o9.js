@@ -1,0 +1,82 @@
+import {
+  i,
+  r as a,
+  s as o,
+} from "./_virtual_mf___mfe_internal__AssessmentUI__loadShare__react__loadShare__.mjs-R5oSoQPu.js";
+import { a as e, i as t, r as n, t as r } from "./rolldown-runtime-Cyuzqnbw.js";
+
+var s = r((e) => {
+    o();
+    var n = (i(), t(a)),
+      r = 60103;
+    if (((e.Fragment = 60107), typeof Symbol == `function` && Symbol.for)) {
+      var s = Symbol.for;
+      ((r = s(`react.element`)), (e.Fragment = s(`react.fragment`)));
+    }
+    var c =
+        n.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,
+      l = Object.prototype.hasOwnProperty,
+      u = { key: !0, ref: !0, __self: !0, __source: !0 };
+    function d(e, t, n) {
+      var i,
+        a = {},
+        o = null,
+        s = null;
+      for (i in (n !== void 0 && (o = `` + n),
+      t.key !== void 0 && (o = `` + t.key),
+      t.ref !== void 0 && (s = t.ref),
+      t))
+        l.call(t, i) && !u.hasOwnProperty(i) && (a[i] = t[i]);
+      if (e && e.defaultProps)
+        for (i in ((t = e.defaultProps), t)) a[i] === void 0 && (a[i] = t[i]);
+      return {
+        $$typeof: r,
+        type: e,
+        key: o,
+        ref: s,
+        props: a,
+        _owner: c.current,
+      };
+    }
+    ((e.jsx = d), (e.jsxs = d));
+  }),
+  c = r((e, t) => {
+    t.exports = s();
+  }),
+  l = n({ Fragment: () => f, default: () => d, jsx: () => p, jsxs: () => m }),
+  u = e(c()),
+  d = u.default ?? u,
+  f = d.Fragment,
+  p = d.jsx,
+  m = d.jsxs,
+  h = `__mf_module_cache__`;
+((globalThis[h] ||= { share: {}, remote: {} }),
+  (globalThis[h].share ||= {}),
+  (globalThis[h].remote ||= {}));
+var g = globalThis[h],
+  _ = (e) => {
+    let t = e;
+    for (let e = 0; e < 5; e++) {
+      let e = t?.default;
+      if (!e || typeof e != `object`) break;
+      let n = Object.keys(t)
+        .filter((e) => e !== `default`)
+        .map((e) => t[e]);
+      if (n.length > 0 && n.some((e) => e !== void 0)) break;
+      t = e;
+    }
+    return t;
+  },
+  v = g.share[`react/jsx-runtime`];
+(v === void 0 && ((v = _(l)), (g.share[`react/jsx-runtime`] = v)),
+  (() => {
+    let e = v;
+    for (let t = 0; t < 5; t++) {
+      let t = e?.default;
+      if (!t || typeof t != `object`) return t ?? e;
+      e = t;
+    }
+    return e;
+  })());
+var { Fragment: y, jsx: b, jsxs: x } = v;
+export { l as i, b as n, x as r, y as t };

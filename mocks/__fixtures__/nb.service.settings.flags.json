@@ -1,0 +1,31 @@
+{
+  "cuSidebarEnabled": true,
+  "timePickerMinutesSupportEnabled": true,
+  "performanceReportEnabled": true,
+  "personalStudyPlanEnabled": true,
+  "mtCoreBatchEditTimeEnabled": true,
+  "splitWalkMe": {
+    "treatmentName": "off",
+    "ssoIsbn": "9798214027715",
+    "userRole": "INSTRUCTOR",
+    "courseType": "REGULAR",
+    "snapshotId": 204465
+  },
+  "PasswordProtectionEnabled": true,
+  "latePenaltyRecalculationEnabled": true,
+  "mastFeatureFlags": [
+    "bulkEditActivitySettings",
+    "bulkEditStudentAccommodation",
+    "bulkEditTimeLimit",
+    "reportQuestionsPage",
+    "reportStudentBreakdown",
+    "reportPerformanceOverTime",
+    "contextMenuDuplicateActivity",
+    "bulkEditConvertToPractice",
+    "bulkEditConvertToPracticeAndViceVersa"
+  ],
+  "delmarToLsasEnabled": true,
+  "isEReaderCourse": false,
+  "isEReaderEmbedded": false,
+  "mtLdbSettingsEnabled": true
+}

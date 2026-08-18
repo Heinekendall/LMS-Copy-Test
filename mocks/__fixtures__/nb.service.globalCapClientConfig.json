@@ -1,0 +1,17 @@
+{
+  "titleIsbn": "9798214027715",
+  "userGUID": "cedb23eae43cd103:-67c89bf:18e19bdc9a8:-7a73",
+  "institutionId": "4031",
+  "analyticsEndpoint": "https://client-eventing-staging01.cengage.info/v1",
+  "userEnvironment": "qa",
+  "userPlatform": "sso",
+  "amplitudeApiKey": "de92d15203609e16c45fb611b9255e27",
+  "userId": 1234601315,
+  "analyticsApiKey": "Ho237ycoLRvfFCaraTmZZHzmwG7DDusudd3cUtMf",
+  "hostPlatform": "mindtap",
+  "hostEnvironment": "qa",
+  "courseKey": "MTPPZ97NZB5D",
+  "productEnvironment": "qa",
+  "userRole": "primary",
+  "productPlatform": "mindtap"
+}

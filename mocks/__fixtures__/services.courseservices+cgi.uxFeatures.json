@@ -1,0 +1,28 @@
+{
+  "xmlns:q4": "http://www.cengage.com/SOA/q4/2",
+  "schemaVersion": "2.63.0",
+  "xmlns:cars": "http://www.cengage.com/CARS/2",
+  "xmlns:cl": "http://xml.cengage-learning.com/cendoc-core",
+  "deployedDateTime": "2025-08-19T10:55:50.183",
+  "xmlns:ayr": "http://www.cengage.com/SOA/ayr/2",
+  "externalApps": [],
+  "xmlns:cxp": "http://www.cengage.com/SOA/cxp/2",
+  "xmlns:preview": "http://www.cengage.com/SOA/preview/2",
+  "xmlns:wa": "http://www.cengage.com/SOA/wa/2",
+  "searchkey": "22347998-913a-4887-a272-3f374bebaaa5",
+  "xmlns:flashcard": "http://www.cengage.com/SOA/flashcard/2",
+  "xmlns:activity": "http://www.cengage.com/SOA/activity/2",
+  "xmlns:alsv2": "http://www.cengage.com/SOA/alsv2/2",
+  "xmlns:clue": "http://www.cengage.com/SOA/clue/2",
+  "revisionId": "22347998-913a-4887-a272-3f374bebaaa5",
+  "xmlns:gradebook": "http://www.cengage.com/SOA/gradebook/2",
+  "featuresGroup": {
+    "learningObjectivesPerformanceReports": {
+      "displayName": "Learning Objectives Performance Report"
+    },
+    "studentAssistant": { "displayName": "Student Assistant" }
+  },
+  "xmlns:settings": "http://www.cengage.com/SOA/settings/2",
+  "xmlns:mindapp": "http://www.cengage.com/SOA/mindapp/2",
+  "id": "QE3PMUWQQ5WHV1HC9CZDAT3EWXQH2PZ9"
+}

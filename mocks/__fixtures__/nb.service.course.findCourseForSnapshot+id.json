@@ -1,0 +1,28 @@
+{
+  "id": 154952,
+  "instructorGuid": "cedb23eae43cd103:-67c89bf:18e19bdc9a8:-7a73",
+  "startDate": 1781409600000,
+  "endDate": 1786507199000,
+  "courseType": "REGULAR",
+  "timezone": "America/New_York",
+  "timezoneCd": "EDT",
+  "org": {
+    "id": 156321,
+    "name": "COPY OF (SUMMER 2026) ITN - CompTIA Linux+ and LPIC-1",
+    "type": 3,
+    "externalId": "MTPPZ97NZB5D",
+    "path": "triOS College > COPY OF (SUMMER 2026) ITN - CompTIA Linux+ and LPIC-1",
+    "courseCount": 0,
+    "courseSearchCount": 0,
+    "userSearchCount": 0,
+    "instructors": [],
+    "settings": {
+      "logoUri": "https://mtbrandingassets-dev.s3.amazonaws.com/local0ebf2d332cb542058c10ec396a706796",
+      "altText": "Test logo alternative 2"
+    },
+    "parentId": 51512,
+    "parentName": "triOS College",
+    "parentExternalId": "4031"
+  },
+  "locationId": "tusc49521"
+}

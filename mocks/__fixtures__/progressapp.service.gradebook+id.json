@@ -1,0 +1,6 @@
+{
+  "zeroGradeRule": "ACTIVITIES_ONLY",
+  "isLmsGradeSyncEnabled": false,
+  "isLmsSyncAutoZero": true,
+  "lmsDateSyncSettings": { "isLmsDateSyncEnabled": false, "activityIds": [] }
+}

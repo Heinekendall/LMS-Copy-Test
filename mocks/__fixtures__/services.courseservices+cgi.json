@@ -1,0 +1,25 @@
+{
+  "lineage": {
+    "masterWorkspaceId": "e058af53-20d2-49f9-98cf-b0e45647870e",
+    "tagId": "b481ed70-f977-4336-aeee-93b609877e0f",
+    "parentWorkspaceId": "e058af53-20d2-49f9-98cf-b0e45647870e",
+    "courseKey": "MTPPZ97NZB5D",
+    "checkpointId": "8b745fdb-ce00-47d9-8ee4-6ceb92381b6b",
+    "parentCgi": "N181PGAN46H9J0WB0Q81FQ65JVQDHY44",
+    "platform": "mt",
+    "workspaceId": "90d068d4-8856-4303-81b5-72e1ee1091e3",
+    "masterCdfCgi": "N181PGAN46H9J0WB0Q81FQ65JVQDHY44"
+  },
+  "revisionId": "4bcbb9db-6461-4595-8e4a-e617e7dc3285",
+  "syllabus": "/services/ccs/v2/courses/W3GQZG3SYXYPTFL53ZCRCZH1BSLMFYV0/syllabus",
+  "roster": "/services/ccs/v2/courses/W3GQZG3SYXYPTFL53ZCRCZH1BSLMFYV0/roster",
+  "metadata": "/services/ccs/v2/courses/W3GQZG3SYXYPTFL53ZCRCZH1BSLMFYV0/metadata",
+  "navigations": [
+    {
+      "type": "learning-path",
+      "uri": "/services/ccs/v2/courses/W3GQZG3SYXYPTFL53ZCRCZH1BSLMFYV0/navigations/JTFQV3A905S2M7PQ6WYNTSJ5QZ7G9HWD"
+    }
+  ],
+  "_self": "/services/ccs/v2/courses/W3GQZG3SYXYPTFL53ZCRCZH1BSLMFYV0",
+  "uxFeatures": "/services/ccs/v2/courses/W3GQZG3SYXYPTFL53ZCRCZH1BSLMFYV0/uxFeatures"
+}

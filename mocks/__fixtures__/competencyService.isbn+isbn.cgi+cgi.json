@@ -1,0 +1,560 @@
+{
+  "tags": [
+    {
+      "id": "DV59SEVATHF6HDVE9XX1UW2S0JZQN00W",
+      "name": "Communication",
+      "icon": null,
+      "description": null
+    },
+    {
+      "id": "FMSVPQMZKC2HD4Y525GEEARHPUFR3S8X",
+      "name": "Summarizing Info",
+      "icon": null,
+      "description": "Summarize written or verbal information, distinguishing between facts, ideas, preferences and informed opinions."
+    },
+    {
+      "id": "LLTU1J45GHACECMA0H41LM8JZ3CV5GU6",
+      "name": "Clear Writing",
+      "icon": null,
+      "description": "Write clearly, with effective audience analysis, and a call to action, if appropriate."
+    },
+    {
+      "id": "D2WJTWHMXRGV7H29H0JE2VR3U7BTGBSW",
+      "name": "Clear Speaking",
+      "icon": null,
+      "description": "Speak clearly, with effective audience analysis, and a call to action, if appropriate."
+    },
+    {
+      "id": "UJT07KN34D8HKAL2EYJP5TWS84M4ZS6W",
+      "name": "Non-verbal Comms",
+      "icon": null,
+      "description": "Use non-verbal communication effectively, including understanding it in others."
+    },
+    {
+      "id": "UEWEYCRJ3QMXJNLHXPA6QNRQT4G1J49K",
+      "name": "Active Listening",
+      "icon": null,
+      "description": "Use active listening and consider shared goals in order to reduce conflict."
+    },
+    {
+      "id": "FYFF5HK1GEGCFUNR248ZS763MB1AEHH9",
+      "name": "Persuasion and Influence",
+      "icon": null,
+      "description": "Use persuasion and influence effectively and ethically, considering the audience."
+    },
+    {
+      "id": "CUP4BJEV9UGDCK193XFLWF4ZUAFX58LA",
+      "name": "Audience Diversity",
+      "icon": null,
+      "description": "Develop communication (written, oral, non-verbal), taking into account the communication styles and cultural diversity of your audience."
+    },
+    {
+      "id": "AMPQTDGJJYCA0H2G0MLX0EL2X4E0BXHF",
+      "name": "Sharing Feedback",
+      "icon": null,
+      "description": "Respond effectively and flexibly to feedback, or give feedback effectively, taking into account audience, setting, and shared goals. "
+    },
+    {
+      "id": "V42J4F5EJ8MPV9J76A8FYNM2X73945YR",
+      "name": "Debate and Curiosity",
+      "icon": null,
+      "description": "Use analytical reasoning and ethical communication to debate and ask questions."
+    },
+    {
+      "id": "PSVUM8H35DY8V8ZQ2HNBPYRQUR3HNMWH",
+      "name": "Critical Thinking",
+      "icon": null,
+      "description": null
+    },
+    {
+      "id": "LJ2JB7QVPE2ZYUSM41LZEL4YUYT5ZQPJ",
+      "name": "Info Gathering",
+      "icon": null,
+      "description": "Demonstrate resourcefulness in gathering information to make a sound decision."
+    },
+    {
+      "id": "REHHYVPZC131MJ0XUHPCNVH7DB9Q2GH0",
+      "name": "Audience and Needs",
+      "icon": null,
+      "description": "Seek information and make recommendations with strong consideration for audience and their needs."
+    },
+    {
+      "id": "SK6WPMFT28UC2T3Z24H3ARGF6VK3T5DE",
+      "name": "Data Analysis and Bias",
+      "icon": null,
+      "description": "Accurately summarize and interpret data with an awareness of personal biases, and source biases"
+    },
+    {
+      "id": "LLTVVHXQR6FW98KB0N81MEQ25B3W13SZ",
+      "name": "Logical Fallacies",
+      "icon": null,
+      "description": "Recognize and respond appropriately to logical fallacies."
+    },
+    {
+      "id": "P7Y36518KJ000GC1QCXHJEJEJH953YMJ",
+      "name": "Solution Development",
+      "icon": null,
+      "description": "Use critical thinking strategies to choose, test, implement, and/or evaluate a solution."
+    },
+    {
+      "id": "XA6VX4H0B0MXLK247ZSU6L9ASFLCG4L2",
+      "name": "Well Informed Decisions",
+      "icon": null,
+      "description": "Make decisions that consider factors such as differing points of view, objective information, risks, and benefits."
+    },
+    {
+      "id": "A4UNCZBVGD36471S54HF2G6RJP5DYJJE",
+      "name": "Open-mindedness",
+      "icon": null,
+      "description": "Demonstrate openness to new ideas and perspectives, and to revisiting your own opinions and beliefs."
+    },
+    {
+      "id": "Q74V7BEDTCFELSVSF97H5QDV9H968WKV",
+      "name": "Perseverance",
+      "icon": null,
+      "description": "Demonstrate a dedication to solving a problem, or completing a task, especially in the face of obstacles and frustration."
+    },
+    {
+      "id": "AED7WHFBTCVWFSKJUHXAGHP9AG7ENSRU",
+      "name": "Self-awareness",
+      "icon": null,
+      "description": "Demonstrate an awareness of your own thought processes, opinions, and behaviors."
+    },
+    {
+      "id": "VFLMGSKU1CZ5BJQ3JG64L35Y9E1AL14C",
+      "name": "Professionalism",
+      "icon": null,
+      "description": "N/A"
+    },
+    {
+      "id": "XZEEFZKV6BT2NWRF533SMB81J8P06GMU",
+      "name": "Growth Mindset",
+      "icon": null,
+      "description": "Demonstrate a positive growth mindset in the face of setbacks or criticism."
+    },
+    {
+      "id": "VG1DRPCMES3ME0TRSWCP1SWJ5JKJWKZE",
+      "name": "Initiative and Accountability",
+      "icon": null,
+      "description": "Take initiative in accomplishing new and existing tasks and assignments."
+    },
+    {
+      "id": "C9YVLYX9S72208MM4MDW7F4U8V6LJF38",
+      "name": "Integrity and Ethics",
+      "icon": null,
+      "description": "Act equitably with integrity and accountability to self and others."
+    },
+    {
+      "id": "EZVH6H0ZDG8PBRQW3REPNVMN184QYX6U",
+      "name": "Personal Image",
+      "icon": null,
+      "description": "Represent yourself fully and honestly, making healthy decisions on sharing elements of your identity."
+    },
+    {
+      "id": "ZRZ73VCH01HHBWPNGR25XFNHZV3A10CP",
+      "name": "Managing Change",
+      "icon": null,
+      "description": "Respond to change effectively, clearly articulating challenges while embracing opportunities."
+    },
+    {
+      "id": "UQS2UL9KNTP0BGDXHMM7PG6LVPN3YSZU",
+      "name": "Time Management",
+      "icon": null,
+      "description": "Manage time effectively to meet deadlines."
+    },
+    {
+      "id": "K0QPUYE9STHYKY8B4GC091VXWRBYN654",
+      "name": "Prioritizing Tasks",
+      "icon": null,
+      "description": "Use strategies for prioritizing work tasks appropriately."
+    },
+    {
+      "id": "GSVZE4G9HK31MYDGWLAH310RF3A1KX6W",
+      "name": "Self Advocacy",
+      "icon": null,
+      "description": "Articulate your own work-related strengths and weaknesses, in the context of strategic goals."
+    },
+    {
+      "id": "FEMEWRMTG7M2P5K6V23AN759XKN7YLRF",
+      "name": "Technology",
+      "icon": null,
+      "description": "N/A"
+    },
+    {
+      "id": "HB0EH91J9W3Z152D4KPVME2CBTDP9GE2",
+      "name": "Basic Tools",
+      "icon": null,
+      "description": "Effectively use productivity and communication tools such as MS Office, email, video conferencing."
+    },
+    {
+      "id": "MGLURBQ76BJP5XRM4V9UFV97T1SLL28Y",
+      "name": "Adapt to New Tech",
+      "icon": null,
+      "description": "Quickly adapt to new or unfamiliar technologies."
+    },
+    {
+      "id": "YMPXGGLYTJVKL2S2KPVW9DAH46GYQ26J",
+      "name": "AI Opportunity and Risk",
+      "icon": null,
+      "description": "Use AI effectively and ethically, proactively recognizing risks and advocating for appropriate use."
+    },
+    {
+      "id": "WMJD7A7QM93PYU05Z2A4MKE6Y01YDF5Y",
+      "name": "Data Science and Analytics",
+      "icon": null,
+      "description": "Use data to identify patterns and inform insights and decisions by interpreting datasets, visualizations, and analytical outputs."
+    },
+    {
+      "id": "KXPBBHW56MQ2ZBJ6MFSZ9D16TR04F78C",
+      "name": "UX and UI",
+      "icon": null,
+      "description": "Apply user experience and user interface (or user interaction) best practices to evaluate or design digital tools that are easy to use, accessible, and aligned with user needs."
+    },
+    {
+      "id": "D1L9EJ4YUBUSVDKPL0B6PGDLD3GA5ZB2",
+      "name": "Digital Storytelling",
+      "icon": null,
+      "description": "Use digital applications, information, and media to communicate a clear, compelling message for a specific audience and purpose."
+    },
+    {
+      "id": "GPXBRJ644BSKJRR5SWWTYWUK0VDM673Q",
+      "name": "Cybersecurity",
+      "icon": null,
+      "description": "Using basic cybersecurity practices, protect personal and group or organizational information, identify common risks, and respond to potential threats appropriately."
+    },
+    {
+      "id": "BLAHSSK3T8DGSMJDASMG945UARXRVKEC",
+      "name": "Media Literacy and Digital Citizenship",
+      "icon": null,
+      "description": "Critically evaluate digital content, recognize misinformation, disinformation, or bias, and communicate in digital environments responsibly and ethically."
+    },
+    {
+      "id": "EY2ARYM65FDJP5Z88V7ZJDAURQ5JUL6Q",
+      "name": "Career \u0026 Self-Development",
+      "icon": null,
+      "description": null
+    },
+    {
+      "id": "KM9MC4H0YV1SDFYR4CVA8M5AXW1WCYD0",
+      "name": "Self-Assessment",
+      "icon": null,
+      "description": "Evaluate personal strengths, skills, and areas for growth to inform career decisions."
+    },
+    {
+      "id": "XE60PE2RCC5AF2R80YXXR5HCP253DNX0",
+      "name": "Goal Setting",
+      "icon": null,
+      "description": "Set and pursue short- and long-term career and professional development goals."
+    },
+    {
+      "id": "DX393XM4EWFRDKRD1VHNHKACDU7L02YS",
+      "name": "Reflection",
+      "icon": null,
+      "description": "Reflect on experiences to improve performance and guide future development."
+    },
+    {
+      "id": "MPS8VKVCSGKCQ60CMB37AC58ZHD81GSH",
+      "name": "Feedback Seeking",
+      "icon": null,
+      "description": "Seek and apply feedback from others to support continuous improvement."
+    },
+    {
+      "id": "CCYLZ3R74BYUNJDRMNZEJ19TY7QP1W4V",
+      "name": "Resilience",
+      "icon": null,
+      "description": "Demonstrate persistence and adaptability when facing challenges or setbacks."
+    },
+    {
+      "id": "BCY2BJP29QRABJ47VE39YXRA6GSYRQJ5",
+      "name": "Lifelong Learning",
+      "icon": null,
+      "description": "Engage in ongoing learning and skill development opportunities."
+    },
+    {
+      "id": "QZB3MZ7W6DSB67WQZ17538J8V2LBMBL8",
+      "name": "Networking",
+      "icon": null,
+      "description": "Build and maintain professional relationships to support career growth."
+    },
+    {
+      "id": "CW52L17A87K513U6H90VBY9A2BTCT8SU",
+      "name": "Professional Identity",
+      "icon": null,
+      "description": "Develop and articulate a clear professional identity and career direction."
+    },
+    {
+      "id": "LMF6AERPDVC0NL6A90E961SB63781EM6",
+      "name": "Equity \u0026 Inclusion",
+      "icon": null,
+      "description": null
+    },
+    {
+      "id": "RVN6K99KGEC20R2JEVDFCRPEQDXCWK6H",
+      "name": "Demonstrating Cultural Awareness",
+      "icon": null,
+      "description": "Demonstrate awareness of and respect for diverse identities, perspectives, and experiences."
+    },
+    {
+      "id": "CBSPK0A9H0QYKCW7QHVVKP56TVEHC8C2",
+      "name": "Inclusive Communication",
+      "icon": null,
+      "description": "Adapt communication to be respectful and effective across diverse audiences."
+    },
+    {
+      "id": "WRU2NSVKHXVDBRNB3CSDAXU4PB0QDWG8",
+      "name": "Recognizing Bias",
+      "icon": null,
+      "description": "Identify personal and systemic biases and their impact on decision-making."
+    },
+    {
+      "id": "JPEH8H4BUMYD753UTNFVAFW2R5JS08TG",
+      "name": "Addressing Bias",
+      "icon": null,
+      "description": "Take action to challenge bias and support equitable outcomes."
+    },
+    {
+      "id": "QEKMLFJFUWRW46P58H29L8NZ90XZWJ9C",
+      "name": "Inclusive Collaboration",
+      "icon": null,
+      "description": "Work effectively and respectfully with individuals from diverse backgrounds."
+    },
+    {
+      "id": "E63TLEVUHSFN2QXNGJTYMX8VUVN0EHS8",
+      "name": "Accessibility Awareness",
+      "icon": null,
+      "description": "Apply practices that support accessibility and inclusion in work and communication."
+    },
+    {
+      "id": "GG3W1W9MPGA39KKV5J4J7UWUEG1DNPGT",
+      "name": "Intercultural Engagement",
+      "icon": null,
+      "description": "Engage effectively in diverse cultural and global contexts."
+    },
+    {
+      "id": "CU234EL4ET9MDTB7ZKKC3TS7JRUQS016",
+      "name": "Leadership",
+      "icon": null,
+      "description": null
+    },
+    {
+      "id": "AG45L797VJ6SY5ULZV8HX66JS9L1D11V",
+      "name": "Setting Direction",
+      "icon": null,
+      "description": "Establish and communicate clear goals and direction for group efforts."
+    },
+    {
+      "id": "FE463HKNZXXUKYYMARWU5YLMGW96CG6Z",
+      "name": "Motivating Others",
+      "icon": null,
+      "description": "Encourage and motivate others to contribute toward shared goals."
+    },
+    {
+      "id": "HE4SJM3NT1NE7QQSMGLVHK1UABTGGH60",
+      "name": "Delegating Tasks",
+      "icon": null,
+      "description": "Assign responsibilities effectively based on strengths and goals."
+    },
+    {
+      "id": "Q8LURCERFM6134QE3L4ECDZVA3HDWYC1",
+      "name": "Facilitating Group Processes",
+      "icon": null,
+      "description": "Guide group discussions and decision-making processes."
+    },
+    {
+      "id": "D2MQUG41UGCRQXZJZ3Z9ZJ5H1P4EMFNB",
+      "name": "Influencing Without Authority",
+      "icon": null,
+      "description": "Persuade and influence others without relying on formal authority."
+    },
+    {
+      "id": "CNRCYYLES05NJ0WC3LHET15N74WPARX3",
+      "name": "Ethical Decision-Making",
+      "icon": null,
+      "description": "Make decisions that reflect ethical principles and accountability."
+    },
+    {
+      "id": "CYNJLDAR71KV2CATLBHNY9PE02FREE76",
+      "name": "Developing Others",
+      "icon": null,
+      "description": "Support the growth and development of others through feedback and mentorship."
+    },
+    {
+      "id": "G3YUX14MASXGJ151X3P9TV3RAN5MMBMK",
+      "name": "Teamwork",
+      "icon": null,
+      "description": null
+    },
+    {
+      "id": "SKZS2484L4U9Z964B0VV9MH1N1RL5VV7",
+      "name": "Contributing to Team Tasks",
+      "icon": null,
+      "description": "Actively contribute to shared work and responsibilities within a team."
+    },
+    {
+      "id": "NLB57KFAXSD620FKPRA82WCRJ6T4VHR8",
+      "name": "Coordinating Work",
+      "icon": null,
+      "description": "Organize and align tasks with team members to achieve goals efficiently."
+    },
+    {
+      "id": "J1CFHH25EY07ZQBKEJN2TQ65FA94GDDX",
+      "name": "Participating in Discussions",
+      "icon": null,
+      "description": "Engage constructively in team discussions and activities."
+    },
+    {
+      "id": "TKG0HGML3WYH8632JZJLY14TRPTPXRPR",
+      "name": "Providing Peer Feedback",
+      "icon": null,
+      "description": "Give and receive constructive feedback to support team performance."
+    },
+    {
+      "id": "JH28J5CGHK5AU08081D3BCQKDH9AJW5C",
+      "name": "Managing Conflict",
+      "icon": null,
+      "description": "Address and resolve conflicts in a respectful and productive manner."
+    },
+    {
+      "id": "YUAB0S9KT9JUN3J79N0QNWTBQ8RLSZLQ",
+      "name": "Shared Accountability",
+      "icon": null,
+      "description": "Take responsibility for both individual and team outcomes."
+    },
+    {
+      "id": "M9TT3YHW0D8ZXB4Z2BN45YGX8SPGLUD2",
+      "name": "Adapting to Team Dynamics",
+      "icon": null,
+      "description": "Adjust behavior and roles to support changing team needs."
+    }
+  ],
+  "activities": [
+    {
+      "refId": "F9TJDSDA9VER6CUFHXBPL6XZEE159GQ0",
+      "tags": [
+        "B3BBU2EGVZ2E4RZX9G678B91JFPU9SSB",
+        "L92A7AMMW30GGN5T0DY6113GDWVASFBX",
+        "MQDH5EN1YNWJSWYJJJL3VWN5TZ0LKZSY"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "NA53VW5ZGNTHSSSAVEBPQZT9J8JC7QAJ",
+      "tags": [
+        "PQBBU985VZ80X63T3Y2UV0RDQMQCWTY0",
+        "MM4DV3FENRNDWJJMKK4KVFNMWXT1NN4J",
+        "XXYPSFTMU3BJWNJZ1SSBZTXLZAKYHF1P",
+        "C621STCMTKZGXMEFDYLL74GTG8RAZHWX",
+        "EYMUVPA1J6TRQB3TMRSPBMK1AW0WB1AL",
+        "B3BBU2EGVZ2E4RZX9G678B91JFPU9SSB",
+        "U4UHMVBVHUSXKDU70BF13XHRMJF1MAMC",
+        "L92A7AMMW30GGN5T0DY6113GDWVASFBX",
+        "MQDH5EN1YNWJSWYJJJL3VWN5TZ0LKZSY",
+        "BG1479KVBQ16YA29BZV9LLCC8HCMMGTX",
+        "Z32PYGZLJYHGGJDLTJXZ58MPY1PZBP3N",
+        "MRHY6UUGY81CFVV1LCS58RS9FQRMC85H",
+        "B475CDCM9TP8SM52KL93KLNP1A92FVVL",
+        "RK16E7U3FJ2JZ8T8DTPGHDSVH4V1BFA7"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "HV9KYDU0KK7JEACKGWVJNX5BNPX6XSQ2",
+      "tags": [
+        "ZLRPWAEFS5B7EUMZ18HSMJD57GMU4MEP",
+        "W0426WDUS1S5QF7844NHVNDGXT6XTZC5",
+        "GKCEJYK9L21NQ38LSYJYGANXFNRNGAE8",
+        "M6TPSHEG2DT1NAQQE1EX6NHSNSDEGUFL",
+        "SLYTLX34E11G668QVBZEYX4WYFUT0UW9",
+        "AFYEYDAV94CUWY1JF98DDA1XR63BYCC0",
+        "JZHPLV3G90QG04V6RXKHE8L35U0EL8DJ",
+        "M66R5YNSTPDCJ33Z2EAF3S4WNCLSA21J",
+        "N14TNWBAH9Z26PNWWDFBCGXNU23M2BJL",
+        "PLVZU5V1DZBUD0MGPK8UHAL1T4N4TWLV",
+        "RMJHKVQN9YXH4DSU323SB6ATWJM80DPN",
+        "TJXN9EW86C4JH4GFAQB4L2LL32E6J6B0",
+        "GPPWBM991U5S6HEDS34LT4E0PKLU82JN",
+        "HQWH2U24QQK0RB3U1JDGU9KAB16ZXQ0C",
+        "TCM6LAALDFGJ5R0KHVZV3LRXL9KFQ8HN",
+        "QU3PNCXG1JRW9UQHE0QXSU8C1MCMUUM6",
+        "QRLP8PJSF98KJ6MNEMPU7N911N8HGYMX"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "EDNY5Y2KNL067FPX814WQH6HSBVU7B08",
+      "tags": [
+        "XXYPSFTMU3BJWNJZ1SSBZTXLZAKYHF1P",
+        "MQDH5EN1YNWJSWYJJJL3VWN5TZ0LKZSY"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "C9ZBSHZ792MRC6WZA6EFJKZGPV5THT85",
+      "tags": [
+        "F0HR3SUQY3QGJ7SLDCV0FWN9R3ABEBBR",
+        "GWE2QP3HM33RM41BLKT49R9ZB80KT5BB"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "W8QZBQTUJ9N3TSKTEBJHKUXCJ0P4UYRA",
+      "tags": [
+        "DSCNKZC3Q5AKQWQNQ491",
+        "KGJMXS2JQ3ZDJTNGK244",
+        "EDDYWZP2LJ68WWCMD972",
+        "MAKRHWXSB6TQ3JBEP677",
+        "QUFBLJBATYC4V3X67626",
+        "TSKBQ6F9PUQXBCPZV388",
+        "RSCEBEXKNVPCZCLSW461",
+        "TEHLCH7BTVND5LJQ6562",
+        "KXSBB3Y8JSY71YEXJ277",
+        "DFVSJEYVMTA0X1GHS227",
+        "TDFWQTEBY8BLVZB8Y997",
+        "HDPBZW8ZLWZD4HHSS817",
+        "SZPGRMYCLGW48W5C5495",
+        "RNSBWH5FW04PCHJ63301",
+        "HEVX820WR3X9R7V4M908",
+        "WYPENG958RWAMLX1U902",
+        "PDHXGGTQWSZ66VY2S850"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "D4Q7HXY88KCJVLKBPDPHVJJBWXVNA804",
+      "tags": ["KGJMXS2JQ3ZDJTNGK244"],
+      "topLevelTags": []
+    },
+    {
+      "refId": "NEGGD8VPL6JCPCLTA46XRLZUJNC37B0F",
+      "tags": [
+        "ZLRPWAEFS5B7EUMZ18HSMJD57GMU4MEP",
+        "W0426WDUS1S5QF7844NHVNDGXT6XTZC5"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "ZYJXN85H356RH7K9X65YR1D2K1B7XFQA",
+      "tags": [
+        "L92A7AMMW30GGN5T0DY6113GDWVASFBX",
+        "TUFS7R5AW0D4BDLGVQFTXHA4M7MANBYT"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "DVMQ76BUN9EU0MDPMV68LQ63REPME115",
+      "tags": [
+        "PQBBU985VZ80X63T3Y2UV0RDQMQCWTY0",
+        "XXYPSFTMU3BJWNJZ1SSBZTXLZAKYHF1P",
+        "B3BBU2EGVZ2E4RZX9G678B91JFPU9SSB",
+        "MQDH5EN1YNWJSWYJJJL3VWN5TZ0LKZSY",
+        "RK16E7U3FJ2JZ8T8DTPGHDSVH4V1BFA7"
+      ],
+      "topLevelTags": []
+    },
+    {
+      "refId": "L5XLL7SYUJZHT2D4JCUWVMPKZ1C9QVND",
+      "tags": ["KGJMXS2JQ3ZDJTNGK244", "MAKRHWXSB6TQ3JBEP677"],
+      "topLevelTags": []
+    }
+  ]
+}
