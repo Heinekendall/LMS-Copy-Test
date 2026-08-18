@@ -1,0 +1,1 @@
+var e=`915e456f-2b30-4f0a-bf87-669c3cac9115`,t=1,n={takeId:e,status:1};export{n as default,t as status,e as takeId};

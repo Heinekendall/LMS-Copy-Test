@@ -1,0 +1,1 @@
+var e=!1,t=!0,n=[],r={batchScorePossibleEditEnabled:!1,courseUseOptionSetsEnabled:!0,careerReadinessFeatures:n};export{e as batchScorePossibleEditEnabled,n as careerReadinessFeatures,t as courseUseOptionSetsEnabled,r as default};
