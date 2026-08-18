@@ -1,0 +1,1 @@
+var e=!1,t={doubleLogoutIsRequired:!1};export{t as default,e as doubleLogoutIsRequired};

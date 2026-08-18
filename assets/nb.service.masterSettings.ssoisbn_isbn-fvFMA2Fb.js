@@ -1,0 +1,1 @@
+var e=!1,t={},n=!1,r={isCustomGradebook:!1,gradebookSettings:t,henleyMode:!1};export{r as default,t as gradebookSettings,n as henleyMode,e as isCustomGradebook};

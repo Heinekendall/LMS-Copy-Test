@@ -1,0 +1,1 @@
+var e=`ENABLED`,t={},n=[],r={courseStatus:e,activityStatuses:t,supportedAppIds:n};export{t as activityStatuses,e as courseStatus,r as default,n as supportedAppIds};

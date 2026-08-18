@@ -1,0 +1,1 @@
+var e=`ok`,t=`Full re-index started for snapshot: 204465`,n={status:`ok`,message:t};export{n as default,t as message,e as status};

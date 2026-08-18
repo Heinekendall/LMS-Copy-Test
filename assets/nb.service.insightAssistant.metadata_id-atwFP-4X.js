@@ -1,0 +1,1 @@
+var e=!0,t=`mtau_22oct`,n={dashboard:`https://qa-instructor-assistant.cengage.com/insights/MTPPZ97NZB5D`},r=1781010646900,i={isActive:!0,title:t,endpoints:n,updatedOn:r};export{i as default,n as endpoints,e as isActive,t as title,r as updatedOn};
