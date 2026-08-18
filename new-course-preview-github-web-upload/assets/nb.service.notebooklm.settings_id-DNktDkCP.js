@@ -1,0 +1,1 @@
+var e=`NOT_SUPPORTED`,t={courseStatus:e};export{e as courseStatus,t as default};
