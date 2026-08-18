@@ -1,0 +1,1 @@
+var e=`ACTIVITIES_ONLY`,t=!1,n=!0,r={isLmsDateSyncEnabled:!1,activityIds:[]},i={zeroGradeRule:e,isLmsGradeSyncEnabled:!1,isLmsSyncAutoZero:!0,lmsDateSyncSettings:r};export{i as default,t as isLmsGradeSyncEnabled,n as isLmsSyncAutoZero,r as lmsDateSyncSettings,e as zeroGradeRule};

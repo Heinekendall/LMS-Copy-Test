@@ -1,0 +1,1 @@
+var e={total:1,hits:[{index:`activity`,score:9.787717,fields:{activityName:`Full Book Plank changed name`,activityId:43892047,activityType:1,activityDesc:`changed name`},highlight:{content:[]}}]},t={hits:e};export{t as default,e as hits};
